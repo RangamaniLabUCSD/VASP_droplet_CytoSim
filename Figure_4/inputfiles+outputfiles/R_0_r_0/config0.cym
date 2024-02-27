@@ -30,6 +30,7 @@ set fiber filament
     confine = inside, 200, cell
     display = ( line=10, 1; color=0x5CBA47FF; )
     activity =grow
+    end_state = 1, 0
     growing_speed = 0.001288, 0
     shrinking_speed = 0
     growing_force = 10.0
